@@ -14,6 +14,17 @@
 		402EB33021F0A08000D506E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 402EB32E21F0A08000D506E4 /* LaunchScreen.storyboard */; };
 		402EB33B21F0A08000D506E4 /* SampleTableView2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EB33A21F0A08000D506E4 /* SampleTableView2Tests.swift */; };
 		402EB34621F0A08000D506E4 /* SampleTableView2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EB34521F0A08000D506E4 /* SampleTableView2UITests.swift */; };
+		402EB35E21F0BD4F00D506E4 /* image2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 402EB35421F0BD4E00D506E4 /* image2.JPG */; };
+		402EB35F21F0BD4F00D506E4 /* image6.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 402EB35521F0BD4E00D506E4 /* image6.JPG */; };
+		402EB36121F0BD4F00D506E4 /* image8.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 402EB35721F0BD4E00D506E4 /* image8.JPG */; };
+		402EB36221F0BD4F00D506E4 /* image1.HEIC in Resources */ = {isa = PBXBuildFile; fileRef = 402EB35821F0BD4E00D506E4 /* image1.HEIC */; };
+		402EB36321F0BD4F00D506E4 /* image5.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 402EB35921F0BD4E00D506E4 /* image5.JPG */; };
+		402EB36421F0BD4F00D506E4 /* image3.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 402EB35A21F0BD4F00D506E4 /* image3.JPG */; };
+		402EB36621F0BD4F00D506E4 /* image7.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 402EB35C21F0BD4F00D506E4 /* image7.JPG */; };
+		40F1EF1621F502CC00001885 /* image10.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 40F1EF1221F502CB00001885 /* image10.JPG */; };
+		40F1EF1A21F502FD00001885 /* image9.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 40F1EF1921F502FD00001885 /* image9.JPG */; };
+		40F1EF1D21F503EB00001885 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F1EF1B21F503EB00001885 /* CustomTableViewCell.swift */; };
+		40F1EF1E21F503EB00001885 /* CustomTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 40F1EF1C21F503EB00001885 /* CustomTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		401C492121F717C2008CCBE7 /* image4.HEIC */ = {isa = PBXFileReference; lastKnownFileType = file; name = image4.HEIC; path = ../../../../marina/image/image4.HEIC; sourceTree = "<group>"; };
 		402EB32221F0A08000D506E4 /* SampleTableView2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleTableView2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		402EB32521F0A08000D506E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		402EB32721F0A08000D506E4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +59,17 @@
 		402EB34121F0A08000D506E4 /* SampleTableView2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleTableView2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		402EB34521F0A08000D506E4 /* SampleTableView2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleTableView2UITests.swift; sourceTree = "<group>"; };
 		402EB34721F0A08000D506E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		402EB35421F0BD4E00D506E4 /* image2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.JPG; sourceTree = "<group>"; };
+		402EB35521F0BD4E00D506E4 /* image6.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image6.JPG; sourceTree = "<group>"; };
+		402EB35721F0BD4E00D506E4 /* image8.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image8.JPG; sourceTree = "<group>"; };
+		402EB35821F0BD4E00D506E4 /* image1.HEIC */ = {isa = PBXFileReference; lastKnownFileType = file; path = image1.HEIC; sourceTree = "<group>"; };
+		402EB35921F0BD4E00D506E4 /* image5.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image5.JPG; sourceTree = "<group>"; };
+		402EB35A21F0BD4F00D506E4 /* image3.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image3.JPG; sourceTree = "<group>"; };
+		402EB35C21F0BD4F00D506E4 /* image7.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image7.JPG; sourceTree = "<group>"; };
+		40F1EF1221F502CB00001885 /* image10.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image10.JPG; sourceTree = "<group>"; };
+		40F1EF1921F502FD00001885 /* image9.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image9.JPG; sourceTree = "<group>"; };
+		40F1EF1B21F503EB00001885 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		40F1EF1C21F503EB00001885 /* CustomTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +120,14 @@
 		402EB32421F0A08000D506E4 /* SampleTableView2 */ = {
 			isa = PBXGroup;
 			children = (
+				402EB35321F0BD4400D506E4 /* image */,
 				402EB32521F0A08000D506E4 /* AppDelegate.swift */,
 				402EB32721F0A08000D506E4 /* ViewController.swift */,
 				402EB32921F0A08000D506E4 /* Main.storyboard */,
 				402EB32C21F0A08000D506E4 /* Assets.xcassets */,
 				402EB32E21F0A08000D506E4 /* LaunchScreen.storyboard */,
 				402EB33121F0A08000D506E4 /* Info.plist */,
+				40305D0C21F4FD5C003BD229 /* CustomCell */,
 			);
 			path = SampleTableView2;
 			sourceTree = "<group>";
@@ -123,6 +148,32 @@
 				402EB34721F0A08000D506E4 /* Info.plist */,
 			);
 			path = SampleTableView2UITests;
+			sourceTree = "<group>";
+		};
+		402EB35321F0BD4400D506E4 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				402EB35821F0BD4E00D506E4 /* image1.HEIC */,
+				402EB35421F0BD4E00D506E4 /* image2.JPG */,
+				402EB35A21F0BD4F00D506E4 /* image3.JPG */,
+				401C492121F717C2008CCBE7 /* image4.HEIC */,
+				402EB35921F0BD4E00D506E4 /* image5.JPG */,
+				402EB35521F0BD4E00D506E4 /* image6.JPG */,
+				402EB35C21F0BD4F00D506E4 /* image7.JPG */,
+				402EB35721F0BD4E00D506E4 /* image8.JPG */,
+				40F1EF1921F502FD00001885 /* image9.JPG */,
+				40F1EF1221F502CB00001885 /* image10.JPG */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		40305D0C21F4FD5C003BD229 /* CustomCell */ = {
+			isa = PBXGroup;
+			children = (
+				40F1EF1B21F503EB00001885 /* CustomTableViewCell.swift */,
+				40F1EF1C21F503EB00001885 /* CustomTableViewCell.xib */,
+			);
+			path = CustomCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,8 +281,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				402EB33021F0A08000D506E4 /* LaunchScreen.storyboard in Resources */,
+				402EB36421F0BD4F00D506E4 /* image3.JPG in Resources */,
+				402EB35F21F0BD4F00D506E4 /* image6.JPG in Resources */,
 				402EB32D21F0A08000D506E4 /* Assets.xcassets in Resources */,
+				402EB36321F0BD4F00D506E4 /* image5.JPG in Resources */,
+				40F1EF1A21F502FD00001885 /* image9.JPG in Resources */,
+				402EB35E21F0BD4F00D506E4 /* image2.JPG in Resources */,
+				40F1EF1E21F503EB00001885 /* CustomTableViewCell.xib in Resources */,
 				402EB32B21F0A08000D506E4 /* Main.storyboard in Resources */,
+				402EB36621F0BD4F00D506E4 /* image7.JPG in Resources */,
+				402EB36221F0BD4F00D506E4 /* image1.HEIC in Resources */,
+				402EB36121F0BD4F00D506E4 /* image8.JPG in Resources */,
+				40F1EF1621F502CC00001885 /* image10.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +317,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40F1EF1D21F503EB00001885 /* CustomTableViewCell.swift in Sources */,
 				402EB32821F0A08000D506E4 /* ViewController.swift in Sources */,
 				402EB32621F0A08000D506E4 /* AppDelegate.swift in Sources */,
 			);
